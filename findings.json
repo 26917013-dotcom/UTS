@@ -1,0 +1,90 @@
+{
+    "scan_info": {
+        "image_path": "evidence.img",
+        "image_size": 524288,
+        "scan_timestamp": "2026-11-21 14:18:06",
+        "tool_version": "1.0"
+    },
+    "carved_files": [
+        {
+            "id": 1,
+            "filename": "recovered/file_001.jpg",
+            "format": "JPEG",
+            "offset_start": 2048,
+            "offset_end": 3310,
+            "size_bytes": 1262,
+            "sha256": "b430a365a194c9dfe9ecb2813a0467d48c78fbc5f374963d63a4008359d0eb5c",
+            "status": "OK"
+        },
+        {
+            "id": 2,
+            "filename": "recovered/file_002.pdf",
+            "format": "PDF",
+            "offset_start": 16384,
+            "offset_end": 17175,
+            "size_bytes": 791,
+            "sha256": "d8d93f68aab585bdf0929a16ef7be8b09a2562c0a31126f7aa90671b89184bd8",
+            "status": "OK"
+        },
+        {
+            "id": 3,
+            "filename": "recovered/file_003.elf",
+            "format": "ELF",
+            "offset_start": 26624,
+            "offset_end": 28672,
+            "size_bytes": 2048,
+            "sha256": "aa2ecda2370063e22ab6b48fb9fcfadbb6efb347e3861d9114b67bd8478f0119",
+            "status": "OK"
+        },
+        {
+            "id": 4,
+            "filename": "recovered/file_004.zip",
+            "format": "ZIP",
+            "offset_start": 28672,
+            "offset_end": 28808,
+            "size_bytes": 136,
+            "sha256": "69fa90953bae64821221f7a9ab5a065eff67cb782c92ee2b37eb166bd39537cc",
+            "status": "OK"
+        },
+        {
+            "id": 5,
+            "filename": "recovered/file_005.zip",
+            "format": "ZIP",
+            "offset_start": 28808,
+            "offset_end": 29025,
+            "size_bytes": 217,
+            "sha256": "a9b9423e4feeec0c3afe65dc89a5fa5f430d928276f6523937d542548f42df2b",
+            "status": "OK"
+        },
+        {
+            "id": 6,
+            "filename": "recovered/file_006.png",
+            "format": "PNG",
+            "offset_start": 36864,
+            "offset_end": 39244,
+            "size_bytes": 2380,
+            "sha256": "50f78d1ddb752facdad4733a314d624de837e26d6d00c6cdf090139a836f500a",
+            "status": "OK"
+        },
+        {
+            "id": 7,
+            "filename": "recovered/file_007.pdf",
+            "format": "PDF",
+            "offset_start": 45056,
+            "offset_end": 57344,
+            "size_bytes": 12288,
+            "sha256": "a3972b37bad87ea49fa97060098b8309e715c4d3754dede831a61ea91f351ab6",
+            "status": "OK"
+        },
+        {
+            "id": 8,
+            "filename": "recovered/file_008.jpg",
+            "format": "JPEG",
+            "offset_start": 57344,
+            "offset_end": 66807,
+            "size_bytes": 9463,
+            "sha256": "03ec5a46324e52b8fef2d2b0ec1a02b0e36f5178f5c07b259ba42e40bd4db2f1",
+            "status": "OK"
+        }
+    ]
+}
